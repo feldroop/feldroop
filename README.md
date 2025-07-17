@@ -1,10 +1,14 @@
-# Hey, I'm Felix. Welcome to my profile! 🏠🌳
+# Hey, I'm Felix. Welcome to my profile! 🏠
 
-## About me
+<img height=400 align="right" src="https://raw.githubusercontent.com/feldroop/feldroop/refs/heads/main/FelixWithProgrammingFriends.jpg" />
 
-## Notable projects
+### About me
 
-## What I'm currently doing
+I recently graduated and am now looking for a position as a software engineer. My academic studies primarily focused on algorithms and data structures. During my master's program, I also developed a passion for software engineering.
+
+### Notable projects
+
+### What I'm currently doing
 
 <!--
 <a href="https://github.com/feldroop/feldroop">
@@ -17,7 +21,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=feldroop&show_icons=true&theme=gruvbox"
       media="(prefers-color-scheme: dark)"
     />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=feldroop&show_icons=true&theme=gruvbox_light" />
+    <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=feldroop&show_icons=true&theme=gruvbox_light" />
   </picture>
 <a\>
 <a href="https://github.com/feldroop/feldroop">
