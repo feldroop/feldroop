@@ -1,5 +1,12 @@
-## Hey, I'm Felix. Welcome to my profile! 🏠🌳
+# Hey, I'm Felix. Welcome to my profile! 🏠🌳
 
+## About me
+
+## Notable projects
+
+## What I'm currently doing
+
+<!--
 <a href="https://github.com/feldroop/feldroop">
   <picture>
     <source
@@ -26,6 +33,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feldroop&langs_count=4&theme=gruvbox&layout=compact" />
   </picture>
 <a\>
+-->
 
 <!--
 **feldroop/feldroop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
