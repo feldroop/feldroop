@@ -12,7 +12,7 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 * Low-level, performance sensitive programming in C, C++ and Rust 🦀
 * Data science, statistical analysis, machine learning, deep learning using R, Python, TensorFlow 🐍
 * Desktop GUI development using Java and JavaFX ☕
-* Parallel/distributed programming 🛰️
+* Parallel/high-performance programming 🛰️
 * Domain knowledge in bioinformatics and sequence analysis 🧬
 
 ### Notable projects
