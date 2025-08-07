@@ -28,6 +28,7 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 * Creating my own personal website 🌐
 * Taking online courses to improve my knowledge of web backend programming and gain an understanding of embedded development 📈
 * Working on [sais-drum](https://github.com/feldroop/sais-drum), my Rust implementation of the SAIS suffix array construction algorithm 🤖
+* Grinding Leetcode 🤓
 
 <div align="center">
 <a href="https://github.com/feldroop/feldroop">
