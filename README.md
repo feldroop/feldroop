@@ -17,8 +17,8 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 
 ### Notable projects
 
-* **`floxer`** - For my master's thesis, I developed a CLI tool that solves a common algorithmic problem in bioinformatics similar to sequence search. The tool is based on the FM-Index data structure and employs a task-based parallelism scheme. [link](https://github.com/feldroop/floxer)
-* **`chopper`** - For my bachelor's thesis, I contributed to a tool that performs the preprocessing for a data structure based on Bloom Filters. I improved the algorithm by integrating set cardinality estimates from HyperLogLog sketches. [link](https://github.com/seqan/chopper) 
+* **`floxer`** - For my master's thesis, I developed a CLI tool that solves a common algorithmic problem in bioinformatics similar to sequence search. The tool is based on the FM-Index data structure and employs a task-based parallelism scheme. [code](https://github.com/feldroop/floxer) [thesis pdf](https://raw.githubusercontent.com/feldroop/feldroop/main/FelixDroop_MasterThesis.pdf)
+* **`chopper`** - For my bachelor's thesis, I contributed to a tool that performs the preprocessing for a data structure based on Bloom Filters. I improved the algorithm by integrating set cardinality estimates from HyperLogLog sketches. [code](https://github.com/seqan/chopper) [thesis pdf](https://raw.githubusercontent.com/feldroop/feldroop/main/FelixDroop_BachelorThesis.pdf)
 
 <!-- TODO personal website -->
 
