@@ -19,6 +19,7 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 
 * **`floxer`** - For my master's thesis, I developed a CLI tool that solves a common algorithmic problem in bioinformatics similar to sequence search. The tool is based on the FM-Index data structure and employs a task-based parallelism scheme. [code](https://github.com/feldroop/floxer) [thesis pdf](https://raw.githubusercontent.com/feldroop/feldroop/main/FelixDroop_MasterThesis.pdf)
 * **`chopper`** - For my bachelor's thesis, I contributed to a tool that performs the preprocessing for a data structure based on Bloom Filters. I improved the algorithm by integrating set cardinality estimates from HyperLogLog sketches. [code](https://github.com/seqan/chopper) [thesis pdf](https://raw.githubusercontent.com/feldroop/feldroop/main/FelixDroop_BachelorThesis.pdf)
+* **[`libsais-rs`]** - I created idiomatic and mostly safe API bindings to allow using the C library [`libsais`] conveniently in Rust. [`libsais`] is a very performant library for algorithmic tasks related to suffix array construction. I put in some effort to create an idiomatic and well-documented API.
 
 <!-- TODO personal website -->
 
@@ -27,8 +28,12 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 * Sending out job applications 🧾
 * Creating my own personal website 🌐
 * Taking online courses to improve my knowledge of web backend programming and gain an understanding of embedded development 📈
-* Working on [sais-drum](https://github.com/feldroop/sais-drum), my Rust implementation of the SAIS suffix array construction algorithm 🤖
+* Working on [`sais-drum`] and [`libsais-rs`], my little Rust projects 🤖
 * Grinding Leetcode 🤓
+
+[`libsais`]: https://github.com/IlyaGrebnov/libsais
+[`libsais-rs`]: https://github.com/feldroop/libsais-rs
+[`sais-drum`]: https://github.com/feldroop/sais-drum
 
 <div align="center">
 <a href="https://github.com/feldroop/feldroop">
