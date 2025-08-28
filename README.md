@@ -17,9 +17,9 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 
 ### Notable projects
 
+* **[`libsais-rs`]** - I created idiomatic and mostly safe API bindings to allow using the C library [`libsais`] conveniently in Rust. [`libsais`] is a very performant library for algorithmic tasks related to suffix array construction. I put in some effort to create an idiomatic and well-documented API.
 * **`floxer`** - For my master's thesis, I developed a CLI tool that solves a common algorithmic problem in bioinformatics similar to sequence search. The tool is based on the FM-Index data structure and employs a task-based parallelism scheme. [code](https://github.com/feldroop/floxer) [thesis pdf](https://raw.githubusercontent.com/feldroop/feldroop/main/FelixDroop_MasterThesis.pdf)
 * **`chopper`** - For my bachelor's thesis, I contributed to a tool that performs the preprocessing for a data structure based on Bloom Filters. I improved the algorithm by integrating set cardinality estimates from HyperLogLog sketches. [code](https://github.com/seqan/chopper) [thesis pdf](https://raw.githubusercontent.com/feldroop/feldroop/main/FelixDroop_BachelorThesis.pdf)
-* **[`libsais-rs`]** - I created idiomatic and mostly safe API bindings to allow using the C library [`libsais`] conveniently in Rust. [`libsais`] is a very performant library for algorithmic tasks related to suffix array construction. I put in some effort to create an idiomatic and well-documented API.
 
 <!-- TODO personal website -->
 
