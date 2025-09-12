@@ -28,9 +28,10 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 * Sending out job applications 🧾
 * Creating my own personal website 🌐
 * Taking online courses to improve my knowledge of web backend programming, data bases and gain an understanding of embedded development 📈
-* Working on [`sais-drum`] and [`libsais-rs`], my little Rust projects 🤖
+* Working on [`genedex`], [`sais-drum`] and [`libsais-rs`], my little Rust projects 🤖
 * Grinding Leetcode 🤓
 
+[`genedex`]: https://github.com/feldroop/genedex
 [`libsais`]: https://github.com/IlyaGrebnov/libsais
 [`libsais-rs`]: https://github.com/feldroop/libsais-rs
 [`sais-drum`]: https://github.com/feldroop/sais-drum
