@@ -36,8 +36,6 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 [`libsais-rs`]: https://github.com/feldroop/libsais-rs
 [`sais-drum`]: https://github.com/feldroop/sais-drum
 
-<!--
-
 <div align="center">
 <a href="https://github.com/feldroop/feldroop">
   <picture>
@@ -66,5 +64,3 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
   </picture>
 <a\>
 </div>
-
--->
