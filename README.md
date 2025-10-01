@@ -28,7 +28,7 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 
 * Sending out job applications 🧾
 * Taking online courses to improve my knowledge of web backend programming, networks, data bases and gain an understanding of embedded development 📈
-* Working on [`genedex`], [`sais-drum`] and [`libsais-rs`], my little Rust projects 🤖
+* Working on [`genedex`], [`sais-drum`] and [`libsais-rs`], my little side projects 🤖
 * Grinding Leetcode 🤓
 * Creating my own personal website 🌐
 
