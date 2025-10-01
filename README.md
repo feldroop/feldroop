@@ -4,7 +4,7 @@
 
 ### About me
 
-I recently obtained my master's degree in bioinformatics from Freie Universität Berlin and am now looking for a position as a software engineer. My academic studies primarily focused on algorithms and data structures. During my master's program, I also developed a passion for software engineering. You can reach out to me via [LinkedIn](https://www.linkedin.com/in/felix-droop/) or [email](mailto:info@felix-droop.de). You can find my CV [here](https://raw.githubusercontent.com/feldroop/feldroop/main/CV.pdf).
+I recently obtained my master's degree in bioinformatics from Freie Universität Berlin and am now looking for a position as a software engineer. My academic studies primarily focused on algorithms and data structures. During my master's program, I also developed a passion for software engineering. You can reach out to me via [LinkedIn](https://www.linkedin.com/in/felix-droop/) or [email](mailto:info@felix-droop.de), and find my CV [here](https://raw.githubusercontent.com/feldroop/feldroop/main/CV.pdf).
 
 ### Skills
 
