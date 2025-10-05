@@ -18,7 +18,7 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 ### Notable projects
 
 * **[`genedex`]** - A fast, memory-efficent and easy-to-use implementation of the FM-Index in Rust.
-* **[`libsais-rs`]** - Idiomatic and mostly API bindings to allow using the C library [`libsais`] conveniently in Rust.
+* **[`libsais-rs`]** - Idiomatic and mostly safe API bindings to allow using the C library [`libsais`] conveniently from Rust.
 * **`floxer`** - For my master's thesis, I developed a CLI tool in C++ that solves a common algorithmic problem in bioinformatics similar to sequence search. The tool is based on the FM-Index data structure and employs a task-based parallelism scheme. [code](https://github.com/feldroop/floxer) [thesis pdf](https://raw.githubusercontent.com/feldroop/feldroop/main/FelixDroop_MasterThesis.pdf)
 * **`chopper`** - For my bachelor's thesis, I contributed to a tool that performs the preprocessing for a data structure based on Bloom Filters. I improved the algorithm by integrating set cardinality estimates from HyperLogLog sketches. [code](https://github.com/seqan/chopper) [thesis pdf](https://raw.githubusercontent.com/feldroop/feldroop/main/FelixDroop_BachelorThesis.pdf)
 
