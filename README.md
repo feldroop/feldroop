@@ -2,6 +2,8 @@
 
 <img height=400 align="right" src="https://raw.githubusercontent.com/feldroop/feldroop/refs/heads/main/FelixWithProgrammingFriends.jpg" />
 
+<!--
+
 ### About me
 
 I recently obtained my master's degree in bioinformatics from Freie Universität Berlin and am now looking for a position as a software engineer. My academic studies primarily focused on algorithms and data structures. During my master's program, I also developed a passion for software engineering. You can reach out to me via [LinkedIn](https://www.linkedin.com/in/felix-droop/) or [email](mailto:info@felix-droop.de), and find my CV [here](https://raw.githubusercontent.com/feldroop/feldroop/main/CV.pdf).
@@ -15,6 +17,8 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 * Parallel/high-performance programming 🛰️
 * Domain knowledge in bioinformatics and sequence analysis 🧬
 
+-->
+
 ### Notable projects
 
 * **[`genedex`]** - A fast, memory-efficent and easy-to-use implementation of the FM-Index in Rust.
@@ -22,7 +26,7 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 * **`floxer`** - For my master's thesis, I developed a CLI tool in C++ that solves a common algorithmic problem in bioinformatics similar to sequence search. The tool is based on the FM-Index data structure and employs a task-based parallelism scheme. [code](https://github.com/feldroop/floxer) [thesis pdf](https://raw.githubusercontent.com/feldroop/feldroop/main/FelixDroop_MasterThesis.pdf)
 * **`chopper`** - For my bachelor's thesis, I contributed to a tool that performs the preprocessing for a data structure based on Bloom Filters. I improved the algorithm by integrating set cardinality estimates from HyperLogLog sketches. [code](https://github.com/seqan/chopper) [thesis pdf](https://raw.githubusercontent.com/feldroop/feldroop/main/FelixDroop_BachelorThesis.pdf)
 
-<!-- TODO personal website -->
+<!-- TODO personal website
 
 ### What I'm currently doing
 
@@ -31,11 +35,6 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
 * Working on [`genedex`], [`sais-drum`] and [`libsais-rs`], my little side projects 🤖
 * Grinding Leetcode 🤓
 * Creating my own personal website 🌐
-
-[`genedex`]: https://github.com/feldroop/genedex
-[`libsais`]: https://github.com/IlyaGrebnov/libsais
-[`libsais-rs`]: https://github.com/feldroop/libsais-rs
-[`sais-drum`]: https://github.com/feldroop/sais-drum
 
 <div align="center">
 <a href="https://github.com/feldroop/feldroop">
@@ -65,3 +64,10 @@ I recently obtained my master's degree in bioinformatics from Freie Universität
   </picture>
 <a\>
 </div>
+
+ -->
+
+ [`genedex`]: https://github.com/feldroop/genedex
+[`libsais`]: https://github.com/IlyaGrebnov/libsais
+[`libsais-rs`]: https://github.com/feldroop/libsais-rs
+[`sais-drum`]: https://github.com/feldroop/sais-drum
